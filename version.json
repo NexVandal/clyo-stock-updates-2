@@ -1,0 +1,11 @@
+{
+  "latest_version": "7.7.16",
+  "minimum_version": "7.7.16",
+  "zip_url": "",
+  "sha256": "",
+  "mandatory": false,
+  "changelog": [
+    "Mise en place du système de mise à jour autonome V1",
+    "Préparation de la future mise à jour en ligne V2"
+  ]
+}
