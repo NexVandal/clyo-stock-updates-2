@@ -1,7 +1,7 @@
 {
   "latest_version": "7.7.20",
-  "minimum_version": "7.7.19",
-  "zip_url": "https://github.com/NexVandal/clyo-stock-updates-2/releases/download/V7.7.20/clyo_stock_excel_app_V7_7_20_correctif_github_diagnostic.zip",
+  "minimum_version": "7.7.16",
+  "zip_url": "https://github.com/NexVandal/clyo-stock-updates-2/releases/download/v7.7.20/clyo_stock_excel_app_V7_7_20_correctif_github_diagnostic.zip",
   "sha256": "",
   "mandatory": false,
   "changelog": [
